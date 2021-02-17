@@ -9,11 +9,11 @@ let arr = [
     ]),
 ];
 ```
-# run
+# generalize ts definetion
 ```
 npm run gen
 ```
-# generalize ts definetion
+# output
 - protocal.d.ts
 ```
 declare namespace Protocals {
