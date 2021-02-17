@@ -1,0 +1,16 @@
+{
+  "name": "array-msg-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "gen": "node ./gen.js"
+  },
+  "author": "lablelan",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.3.0"
+  }
+}
