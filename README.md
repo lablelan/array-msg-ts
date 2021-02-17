@@ -13,7 +13,7 @@ let arr = [
 ```
 npm run gen
 ```
-#result
+# generalize ts definetion
 - protocal.d.ts
 ```
 declare namespace Protocals {
